@@ -5,7 +5,7 @@
 		"maputnik:renderer": "mbgljs",
 		"license": "https://creativecommons.org/publicdomain/zero/1.0/"
 	},
-	"glyphs": "https://tiles.versatiles.org/fonts/{fontstack}/{range}.pbf",
+	"glyphs": "https://tiles.versatiles.org/assets/fonts/{fontstack}/{range}.pbf",
 	"sprite": "https://tiles.versatiles.org/sprites/sprites",
 	"sources": {
 		"versatiles-shortbread": {

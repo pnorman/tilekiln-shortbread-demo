@@ -6,7 +6,7 @@
 		"license": "https://creativecommons.org/publicdomain/zero/1.0/"
 	},
 	"glyphs": "https://tiles.versatiles.org/assets/fonts/{fontstack}/{range}.pbf",
-	"sprite": "https://tiles.versatiles.org/sprites/sprites",
+	"sprite": "https://tiles.versatiles.org/assets/sprites/sprites",
 	"sources": {
 		"versatiles-shortbread": {
 			"type": "vector",
